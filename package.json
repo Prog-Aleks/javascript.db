@@ -1,0 +1,14 @@
+{
+  "name": "javascript.db",
+  "version": "1.0.0",
+  "description": "programma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleks Kozak",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
